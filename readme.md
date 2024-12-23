@@ -18,3 +18,9 @@ Neural Network examples using Pytorch.
 - california房屋价格预测。
 
 ![image-20241211200310515](pic/image-20241211200310515.png)
+
+### 2. 卷积神经网络CNN
+
+- Fashion Mnist 识别
+
+![image-20241223211002940](pic/image-20241223211002940.png)
